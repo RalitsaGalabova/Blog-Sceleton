@@ -1,4 +1,6 @@
 ﻿using NUnit.Framework;
+using OpenQA.Selenium;
+using OpenQA.Selenium.Chrome;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,13 +10,18 @@ using System.Threading.Tasks;
 namespace Blog.UI.Tests
 {
     [TestFixture]
-    public class TestClass
+    public class UITests
     {
         [Test]
-        public void TestMethod()
+        public void CheckIsLoaded()
         {
-            // TODO: Add your test code here
-            Assert.Pass("Your first passing test");
+            IWebDriver driver = BrowserHost.Instance.Application.Browser;
+
+            driver.Navigate().GoToUrl(@"http://localhost:60634/Article/List");
+            var logo = driver.FindElement(By.XPath("html/body/div[1]/div/div[1]/a"));
+
+            Assert.AreEqual("SOFTUNI BLOG", logo.Text);
+
         }
     }
 }

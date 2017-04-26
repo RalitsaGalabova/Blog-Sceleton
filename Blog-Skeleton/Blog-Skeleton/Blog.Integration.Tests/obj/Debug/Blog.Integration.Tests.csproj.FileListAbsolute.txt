@@ -1,0 +1,7 @@
+C:\Users\Rally\Documents\GitHub\Blog-Sceleton\Blog-Skeleton\Blog-Skeleton\Blog.Integration.Tests\bin\Debug\Blog.Integration.Tests.dll
+C:\Users\Rally\Documents\GitHub\Blog-Sceleton\Blog-Skeleton\Blog-Skeleton\Blog.Integration.Tests\bin\Debug\Blog.Integration.Tests.pdb
+C:\Users\Rally\Documents\GitHub\Blog-Sceleton\Blog-Skeleton\Blog-Skeleton\Blog.Integration.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Rally\Documents\GitHub\Blog-Sceleton\Blog-Skeleton\Blog-Skeleton\Blog.Integration.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Rally\Documents\GitHub\Blog-Sceleton\Blog-Skeleton\Blog-Skeleton\Blog.Integration.Tests\obj\Debug\Blog.Integration.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Rally\Documents\GitHub\Blog-Sceleton\Blog-Skeleton\Blog-Skeleton\Blog.Integration.Tests\obj\Debug\Blog.Integration.Tests.dll
+C:\Users\Rally\Documents\GitHub\Blog-Sceleton\Blog-Skeleton\Blog-Skeleton\Blog.Integration.Tests\obj\Debug\Blog.Integration.Tests.pdb
